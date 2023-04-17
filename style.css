@@ -20,6 +20,7 @@ body{
 .principal{
     background-image: url(Background.png);
     background-size: contain;
+    background-repeat: no-repeat;
     align-items: center;
     text-align: center;
     grid-template-columns: 50% 25% 25%;
